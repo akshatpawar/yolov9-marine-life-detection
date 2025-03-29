@@ -34,7 +34,7 @@ Example:
 > - **Date**: 22nd - 23rd December 2024  
 > - **Location**: Oriental University, Indore, India  
 > - **Paper/Project Title**: "Enhanced Object Detection based on YOLOv9 for Marine Life"  
-> - [Link to conference proceedings or related papers](https://www.cicn.in/)
+> - [Link to conference proceedings or related papers](https://ieeexplore.ieee.org/document/10847536)
 
 ---
 
@@ -103,5 +103,5 @@ We welcome contributions from the community! If you’d like to contribute to th
 
 ## Acknowledgements
 
-- **Authors**: Akshat Pawar, Ankush Handa, Madhav Pujari
+- **Authors**: [Akshat Pawar](https://github.com/akshatpawar), Ankush Handa, Madhav Pujari
 - The marine life dataset was provided by [RoboFlow](https://public.roboflow.com/object-detection/aquarium).
